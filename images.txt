@@ -4,6 +4,3 @@ corentinth/it-tools
 frooodle/s-pdf
 phpipam/phpipam-cron
 phpipam/phpipam-www
-6053537/portainer-ce
-ghcr.io/gethomepage/homepage:latest
-jlesage/firefox
