@@ -3,5 +3,3 @@ mysql:8.0.37
 corentinth/it-tools
 frooodle/s-pdf
 6053537/portainer-ce
-ghcr.io/gethomepage/homepage:latest
-jlesage/firefox
